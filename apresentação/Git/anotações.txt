@@ -1,5 +1,5 @@
-links úteis
-links para ajuda
-links para performace
-links para buscar coisas
+links úteis (https://git-scm.com/)
+links para ajuda (https://git-scm.com/doc)
+links para Downloads (https://git-scm.com/downloads)
+links para Comunidade (https://git-scm.com/community)
 

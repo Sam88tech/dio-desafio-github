@@ -16,7 +16,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    animation: backgroundTransition 20s ease-in-out infinite;
+    animation: backgroundTransition 60s ease-in-out infinite;
 }
 
 h1 {
@@ -40,6 +40,7 @@ a {
     font-size: 24px;
     padding: 1rem 4rem;
     border: 1px solid #ffffff;
+    border-radius: 75%;
     min-width: 4rem;
     display: flex;
     justify-content: center;
@@ -48,8 +49,8 @@ a {
 }
 
 a:hover {
-    color: #085878;
-    background-color: #ffffff;
+    color: #e9f1f5;
+    background-color: #c69346;
 }
 
 @keyframes backgroundTransition {

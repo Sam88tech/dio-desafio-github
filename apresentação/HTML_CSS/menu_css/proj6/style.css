@@ -1,0 +1,80 @@
+body {
+    background-color: black;
+    margin: auto;
+    padding: auto;
+    opacity: 1;
+}
+
+.cab {
+    width: 300vh;
+    width: 100%;
+    background-color: rgb(129, 161, 245);
+    border: 1px solid white;
+   
+}
+
+.cab1 {
+    width: 300vh;
+    width: 100%;
+    background-color: rgb(129, 161, 245);
+    border: 1px solid white;
+   
+}
+
+.cab2 {
+    width: 300vh;
+    width: 100%;
+    background-color: rgb(129, 161, 245);
+    border: 1px solid white;
+   
+}
+
+.tam {
+    color: rgb(13, 93, 66);
+    text-align: center;
+    text-decoration: dotted;
+    justify-content: center;
+    padding: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
+
+.tam1 {
+    color: rgb(180, 116, 26);
+    text-align: center;
+    text-decoration: dotted;
+    justify-content: center;
+    padding: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
+
+.tam2 {
+    color: rgb(132, 172, 46);
+    text-align: center;
+    text-decoration: dotted;
+    justify-content: center;
+    padding: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
+
+.img {
+    height: 100px;
+    width: 100px;
+  
+}
+
+.img1 {
+    height: 100px;
+    width: 100px;
+ 
+}
+.pe {
+    color: aqua;
+    justify-content: center;
+    text-align: end;
+    animation: both;
+    padding: 8px;
+    justify-items: flex-end;
+}

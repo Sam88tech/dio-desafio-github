@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(128, 119, 119);
     margin: auto;
     padding: auto;
     opacity: 1;
@@ -8,23 +8,26 @@ body {
 .cab {
     width: 300vh;
     width: 100%;
-    background-color: rgb(129, 161, 245);
+    background-color: rgb(230, 232, 235);
     border: 1px solid white;
+    justify-items: left;
+    align-items: flex-start;
+
    
 }
 
 .cab1 {
     width: 300vh;
     width: 100%;
-    background-color: rgb(129, 161, 245);
+    background-color: rgb(230, 232, 235);
     border: 1px solid white;
-   
+   justify-items: left;
 }
 
 .cab2 {
     width: 300vh;
     width: 100%;
-    background-color: rgb(129, 161, 245);
+    background-color: rgb(230, 232, 235);
     border: 1px solid white;
    
 }
@@ -47,6 +50,8 @@ body {
     padding: 4px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 22px;
+    align-items: flex-start;
+    image-orientation: initial;
 }
 
 .tam2 {
@@ -59,13 +64,17 @@ body {
     font-size: 22px;
 }
 
-.img {
+.face {
     height: 100px;
     width: 100px;
-  
+
+}
+.inst {
+    height: 100px;
+    width: 100px;
 }
 
-.img1 {
+.din {
     height: 100px;
     width: 100px;
  

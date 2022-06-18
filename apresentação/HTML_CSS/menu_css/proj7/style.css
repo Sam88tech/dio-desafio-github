@@ -1,0 +1,53 @@
+figure {
+    position: relative;
+}
+
+figcaption {
+    position: absolute;
+    bottom: 0;
+}
+
+figcaption {
+    background-color: black;
+    background-color:rgba(0, 0, 0, 0.8 );
+    color: aliceblue;
+}
+
+
+.abas {
+    position: relative;
+}
+
+.aba {
+    display: inline;
+}
+
+.aba > a {
+    float: left;
+    padding: 0.5em 1em;
+    background: linear-gradient(#fff, #eee);
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ccc #ccc #fff;
+}
+
+.aba:not(:target) a {
+    border-bottom:  0 none;
+}
+
+.aba:target a {
+    background: white;
+}
+
+.conteudo {
+    position: absolute;
+    left: 0;
+    top: calc(2em + 4px);
+    z-index: -2;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+.aba:target .conteudo {
+    z-index: -1;
+}

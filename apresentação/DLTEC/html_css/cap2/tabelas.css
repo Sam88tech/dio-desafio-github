@@ -1,0 +1,35 @@
+/*
+.tab {
+    width: 100px;
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    border-radius: 5%;
+    text-align: center;
+    padding: auto;
+}*/
+
+table{ /** Faz o estilo da tabela inteira. **/
+    width: 100px;
+    background: orange; /** Coloca um fundo laranja. **/
+    border-color: blue; /** Insere a borda azul. **/
+    
+    border-style: dotted; /** Define a borda pontilhada. **/
+ }
+ tr{/** Faz o estilo para as linhas. **/
+    text-align: center; /** Centraliza o conteúdo. **/
+ }
+ th{/** Faz o estilo para as células do cabeçalho. **/
+    background: #666; /** Muda para um fundo cinza. **/
+    color: white; /** Troca a cor da fonte para branco. **/
+ }
+ td .esquerda{ /** É feito o estilo das celulas com o auxilio de uma classe. **/
+    text-align: left; /**Alinha o texto da primeira coluna para esquerda. **/
+ }
+ td .centro{
+    text-align: center; /**Centraliza o texto. **/
+ }
+ td .direita{
+    text-align: right; /**Coloca o texto para esquerda. **/
+ }
+ 

@@ -1,3 +1,4 @@
+/*
 function pares (array) {
     for(let i = 0; i < array.length; i++) {
         if (array[i]=== 0){
@@ -12,3 +13,9 @@ function pares (array) {
 
 let arr = [0, 8, 4, 6, 880, 234, 992];
 console.log(pares(arr));
+*/
+
+
+   
+   console.log(meuObjeto.chave); 
+   console.log(meuObjeto[chave]);

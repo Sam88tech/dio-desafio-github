@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\desafio\\net\\net.csproj": {}
+    "C:\\workspace\\desafio\\dio-desafio-github\\net\\net.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\desafio\\net\\net.csproj": {
+    "C:\\workspace\\desafio\\dio-desafio-github\\net\\net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\desafio\\net\\net.csproj",
+        "projectUniqueName": "C:\\workspace\\desafio\\dio-desafio-github\\net\\net.csproj",
         "projectName": "net",
-        "projectPath": "C:\\workspace\\desafio\\net\\net.csproj",
+        "projectPath": "C:\\workspace\\desafio\\dio-desafio-github\\net\\net.csproj",
         "packagesPath": "C:\\Users\\sis88\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\desafio\\net\\obj\\",
+        "outputPath": "C:\\workspace\\desafio\\dio-desafio-github\\net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sis88\\AppData\\Roaming\\NuGet\\NuGet.Config"
